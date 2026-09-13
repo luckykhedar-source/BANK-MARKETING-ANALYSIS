@@ -1,0 +1,15 @@
+
+---
+
+# 32. `requirements.txt`
+
+Create:
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+google colab
